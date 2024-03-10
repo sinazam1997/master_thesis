@@ -1,1 +1,11 @@
-# master_thesis
+In today's digital era, the quest for suitable employment tailored to individual interests and capabilities presents a formidable challenge. With the proliferation of information and diverse job opportunities, selecting the optimal career path has become increasingly intricate. The evolution of online job recruitment processes has introduced new complexities to this endeavor.
+
+The selection of an appropriate job significantly influences individuals' quality of life and satisfaction. This intricate process demands meticulous analysis of resumes, experiences, and skill sets. Leveraging the power of artificial intelligence, intelligent job recommender systems emerge as a promising solution to address these challenges.
+
+Our thesis focuses on the design and implementation of an intelligent job recommender system utilizing advanced techniques such as multilingual transformers and collaborative filtering. These methodologies enable both cross-lingual recommendation, facilitating job search across language barriers, and personalized recommendation, tailoring job suggestions to individual preferences and qualifications.
+
+The system extracts and analyzes pertinent information from multilingual sources, bridging linguistic gaps to provide accurate job recommendations. Collaborative filtering techniques enhance recommendation precision by leveraging user behavior data. The resulting system offers efficient and effective job suggestions, empowering individuals in their career pursuits.
+
+Our research not only advances the field of job recommender systems but also provides a robust tool to aid individuals in navigating the complex landscape of employment opportunities. Through the integration of multilingual transformers and collaborative filtering, our thesis contributes to the enhancement of job recommendation accuracy and cross-lingual accessibility.
+
+We anticipate that our work will pave the way for the widespread adoption of intelligent job recommender systems, fostering a brighter future in career navigation and job selection across linguistic and cultural boundaries.
